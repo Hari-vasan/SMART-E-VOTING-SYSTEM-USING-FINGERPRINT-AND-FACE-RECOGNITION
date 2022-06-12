@@ -1,1 +1,1 @@
-# online_voting_with_finger_face
+# SMART E-VOTING SYSTEM USING FINGERPRINT AND FACE RECOGNITION
